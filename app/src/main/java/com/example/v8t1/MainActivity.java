@@ -1,5 +1,3 @@
-// Juho Varila 002583729
-
 package com.example.v8t1;
 
 import android.os.Bundle;
